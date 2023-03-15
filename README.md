@@ -1,1 +1,1 @@
-# seller-app
+# seller-app - A React native app
