@@ -1,0 +1,13 @@
+
+View is like a div
+touchables
+button
+alerts
+stylesheet
+flex
+flex-direction
+
+
+Doubts :
+statusbar
+hard refersh cheyumbo : safeAreaView effect cheyunila.
